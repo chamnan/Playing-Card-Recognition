@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Card Recognition using OpenCV
 Code from the blog post 

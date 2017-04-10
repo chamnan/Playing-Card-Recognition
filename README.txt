@@ -5,9 +5,9 @@ http://arnab.org/blog/so-i-suck-24-automating-card-games-using-opencv-and-python
 
 Usage: 
 
-  python3 card_img.py filename num_cards training_image_filename training_labels_filename num_training_cards
+  ./card_img.py filename num_cards training_image_filename training_labels_filename num_training_cards
 
 Example:
-  python3 card_img.py test.JPG 4 train.png train.tsv 56
+  ./card_img.py test.jpg 4 train.png train.tsv 56
   
 Note: The recognition method is not very robust; please see SIFT / SURF for a good algorithm.  
